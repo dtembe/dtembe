@@ -222,7 +222,7 @@ print("Total Certifications:", len(servicenow_certs) + len(technical_certs) + le
   <img src="https://img.shields.io/badge/Technical-4_Certifications-000000?style=for-the-badge&logo=expertise" alt="Technical Certifications">
   <img src="https://img.shields.io/badge/Legacy-4_Certifications-5C0083?style=for-the-badge" alt="Legacy Certifications">
 </div>
-
+<!-- 
 ## 📝 Published Articles
 
 ```console
@@ -237,7 +237,7 @@ dtembe@github:~$ ./list_publications.sh --sort=date
 | 2019-06-04 | Python Scripted API Bridge                           | LinkedIn  | [Read](https://www.linkedin.com/pulse/python-scripted-api-bridge-dan-tembe) |
 | 2019-01-02 | Jenkins-CI/CD as Super CRON for RESTful API integration | LinkedIn  | [Read](https://www.linkedin.com/pulse/jenkins-cicd-super-cron-restful-api-integration-dan-tembe) |
 | 2018-05-18 | Information Security Compliance Strategy for GDPR    | LinkedIn  | [Read](https://www.linkedin.com/pulse/information-security-compliance-strategy-or-expanding-dan-tembe) |
-```
+``` -->
 
 ## 🛠️ Projects by Category
 

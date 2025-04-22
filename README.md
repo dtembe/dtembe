@@ -7,9 +7,8 @@
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=dtembe&style=for-the-badge&color=brightgreen)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=googlechrome)](https://yourportfolio.com)
-  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dtembe)
+ 
 </div>
 
 ## 🔧 Technologies & Tools
@@ -74,6 +73,16 @@ mindmap
 <!-- Technical Skills -->
 <table>
   <tr>
+    <td><strong>Obserability</strong></td>
+    <td>
+      <img src="https://progress-bar.dev/95/?width=100&title=Infrastructure Monitoring" alt="Infrastructure Monitoring 95%">
+      <img src="https://progress-bar.dev/90/?width=100&title=ppliction Monitoring" alt="Appliction Monitoring 90%">
+      <img src="https://progress-bar.dev/85/?width=100&title=Cloud Monitoring" alt="Cloud Monitoring 80%">
+      <img src="https://progress-bar.dev/85/?width=100&title=Security Monitoring" alt="security Monitoring 75%">
+    </td>
+  </tr>
+  <tr>
+  <tr>
     <td><strong>Infrastructure Management</strong></td>
     <td>
       <img src="https://progress-bar.dev/95/?width=100&title=Servers" alt="Servers 95%">
@@ -137,19 +146,9 @@ mindmap
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:yourname@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:dtembe@yahoo.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/dtembe)
-  
 </div>
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Automating Infrastructure Management: Lessons Learned](https://yourblog.com/automate-infrastructure)
-- [Building Reliable Monitoring Solutions](https://yourblog.com/reliable-monitoring)
-- [Integration Patterns for Enterprise Systems](https://yourblog.com/integration-patterns)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 

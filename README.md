@@ -8,7 +8,8 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=dtembe&style=for-the-badge&color=brightgreen)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-dtembe-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dtembe)
-  [![Resume](https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=adobe)](./assets/resume.pdf)
+  [![Resume PDF](https://img.shields.io/badge/Resume-PDF-success?style=for-the-badge&logo=adobe)](./assets/resume.pdf)
+  [![Resume MD](https://img.shields.io/badge/Resume-Markdown-lightgrey?style=for-the-badge&logo=markdown)](./assets/resume.md)
  
 </div>
 
@@ -22,6 +23,7 @@
   ![Automation](https://img.shields.io/badge/Automation-Expert-FF9900?style=flat-square&logo=ansible)
   ![Infrastructure](https://img.shields.io/badge/Infrastructure-Specialist-0078D7?style=flat-square&logo=azure-devops)
   ![Monitoring](https://img.shields.io/badge/Monitoring-Advanced-5391FE?style=flat-square&logo=grafana)
+  ![ServiceNow](https://img.shields.io/badge/ServiceNow-Certified-00A1E0?style=flat-square&logo=servicenow)
   ![Git](https://img.shields.io/badge/Git-Advanced-F05032?style=flat-square&logo=git)
   
 </div>
@@ -29,7 +31,7 @@
 ## 📊 Professional Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dtembe&theme=nord&column=7&no-frame=true&no-bg=true&rank=-ISSUES,-STARS,-FOLLOWERS,-PULLREQUEST,-REVIEWS" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dtembe&theme=nord&column=4&no-frame=true&no-bg=true&rank=SECRET,AAA,AA,A,B" alt="GitHub Trophies" width="100%" />
 </div>
 
 <!-- GitHub activity graph hidden to focus on private professional work -->
@@ -51,22 +53,32 @@
 
 ## 🔍 What I'm Working On
 
-```mermaid
-mindmap
-  root((Current Focus))
-    Infrastructure Automation
-      API-driven configuration
-      Zero-touch deployment
-      Infrastructure as Code
-    Monitoring Solutions
-      Log aggregation
-      Performance analytics
-      Alert correlation
-    Integration Projects
-      Enterprise tool integrations
-      Custom API connectors
-      Workflow automation
-```
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>📈 Infrastructure Automation</b></td>
+      <td align="center"><b>🔍 Monitoring Solutions</b></td>
+      <td align="center"><b>🔄 Integration Projects</b></td>
+    </tr>
+    <tr>
+      <td>
+        • API-driven configuration<br>
+        • Zero-touch deployment<br>
+        • Infrastructure as Code
+      </td>
+      <td>
+        • Log aggregation<br>
+        • Performance analytics<br>
+        • Alert correlation
+      </td>
+      <td>
+        • Enterprise tool integrations<br>
+        • Custom API connectors<br>
+        • Workflow automation
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🌟 Highlighted Skills
 

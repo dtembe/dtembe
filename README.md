@@ -66,7 +66,7 @@ Prometheus: .............. ████████░░░ Intermediate
 
 <div align="center">
   
-  ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python)
+  ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python)
   ![Bash](https://img.shields.io/badge/Bash-Advanced-4EAA25?style=flat-square&logo=gnu-bash)
   ![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?style=flat-square&logo=linux)
   ![Automation](https://img.shields.io/badge/Automation-Expert-FF9900?style=flat-square&logo=ansible)

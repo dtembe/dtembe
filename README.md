@@ -16,7 +16,9 @@ Development (IDE):     ... VS Code, Pycharm CE
 Languages.Markup: ........ JSON, YAML, Markdown, HTML, CSS
 Languages.Human: ......... English (Native), Marathi (Native), Hindi
 
-Email.Personal: .......... dtembe@_no_spam_yahoo.com ( remove _no_spam_ )
+Email.Personal: .......... dtembe@_no_spam_yahoo.com ( please remove _no_spam_ )
+Email.Personal: .......... dtembe@_no_spam_gmail.com ( Please remove _no_spam_ )
+
 LinkedIn: ................ https://linkedin.com/in/dtembe
 GitHub: .................. https://github.com/dtembe
 

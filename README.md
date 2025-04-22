@@ -7,7 +7,8 @@
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=dtembe&style=for-the-badge&color=brightgreen)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dtembe)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-dtembe-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dtembe)
+  [![Resume](https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=adobe)](./assets/resume.pdf)
  
 </div>
 
@@ -28,12 +29,10 @@
 ## 📊 Professional Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dtembe&theme=nord&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dtembe&theme=nord&column=7&no-frame=true&no-bg=true&rank=-ISSUES,-STARS,-FOLLOWERS,-PULLREQUEST,-REVIEWS" alt="GitHub Trophies" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dtembe&custom_title=Contribution%20Activity&hide_border=true&theme=react-dark&bg_color=20232a" width="100%" alt="Activity Graph" />
-</div>
+<!-- GitHub activity graph hidden to focus on private professional work -->
 
 ## 💼 Private Project Portfolio
 
@@ -52,8 +51,6 @@
 
 ## 🔍 What I'm Working On
 
-<div align="center">
-
 ```mermaid
 mindmap
   root((Current Focus))
@@ -71,8 +68,6 @@ mindmap
       Workflow automation
 ```
 
-</div>
-
 ## 🌟 Highlighted Skills
 
 <div align="center">
@@ -80,12 +75,12 @@ mindmap
 <!-- Technical Skills -->
 <table>
   <tr>
-    <td><strong>Obserability</strong></td>
+    <td><strong>Observability</strong></td>
     <td>
-      <img src="https://progress-bar.dev/95/?width=100&title=Infrastructure Monitoring" alt="Infrastructure Monitoring 95%">
-      <img src="https://progress-bar.dev/90/?width=100&title=ppliction Monitoring" alt="Appliction Monitoring 90%">
-      <img src="https://progress-bar.dev/85/?width=100&title=Cloud Monitoring" alt="Cloud Monitoring 80%">
-      <img src="https://progress-bar.dev/85/?width=100&title=Security Monitoring" alt="security Monitoring 75%">
+      <img src="https://progress-bar.dev/95/?width=100&title=Infrastructure" alt="Infrastructure Monitoring 95%">
+      <img src="https://progress-bar.dev/90/?width=100&title=Application" alt="Application Monitoring 90%">
+      <img src="https://progress-bar.dev/85/?width=100&title=Cloud" alt="Cloud Monitoring 85%">
+      <img src="https://progress-bar.dev/85/?width=100&title=Security" alt="Security Monitoring 85%">
     </td>
   </tr>
   <tr>

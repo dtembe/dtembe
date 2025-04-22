@@ -25,11 +25,14 @@
   
 </div>
 
-## 📊 GitHub Stats
+## 📊 Professional Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dtembe&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dtembe&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dtembe&theme=nord&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dtembe&custom_title=Contribution%20Activity&hide_border=true&theme=react-dark&bg_color=20232a" width="100%" alt="Activity Graph" />
 </div>
 
 ## 💼 Private Project Portfolio
@@ -49,6 +52,8 @@
 
 ## 🔍 What I'm Working On
 
+<div align="center">
+
 ```mermaid
 mindmap
   root((Current Focus))
@@ -65,6 +70,8 @@ mindmap
       Custom API connectors
       Workflow automation
 ```
+
+</div>
 
 ## 🌟 Highlighted Skills
 

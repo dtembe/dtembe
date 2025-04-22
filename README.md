@@ -1,5 +1,3 @@
-# <div align="center">👋 Hello, I'm Dan</div>
-
 ```console
 dtembe@github:~$ ./display_profile.sh
 ```
@@ -9,21 +7,21 @@ dtembe@github:~$ ./display_profile.sh
 # -------------------------------------------
 
 OS: ...................... Linux, Windows, macOS
-Uptime: ................. 15+ years of IT experience
-Host: ................... ScienceLogic, Intellisoft Technologies
-Kernel: ................. Infrastructure Automation & Monitoring
+Uptime: ................. 15+ years of Observability experience
+Host: ................... ScienceLogic
+Kernel: ................. Sales Engineering, Solution Architecture, Infrastructure Automation & Monitoring
 
-Languages.Programming: ... Python, Bash, JavaScript, PowerShell
+Languages.Programming: ... Python, Bash, PowerShell
 Languages.Markup: ........ HTML, CSS, JSON, YAML, Markdown
-Languages.Human: ......... English (Native), Hindi, Marathi
+Languages.Human: ......... English (Native), Marathi (Native), Hindi
 
-Email.Personal: .......... dtembe@yahoo.com
+Email.Personal: .......... dtembe@_no_spam_yahoo.com ( remove _no_spam_ )
 LinkedIn: ................ https://linkedin.com/in/dtembe
 GitHub: .................. https://github.com/dtembe
 
 # GitHub Stats
 Repositories: ............ Private & Public Focus
-Lines of Code: ........... Infrastructure-as-Code Expert
+Lines of Code: ........... Infrastructure-as-Code & Observability Expert
 ```
 
 <div align="center">
@@ -43,13 +41,13 @@ dtembe@github:~$ ./list_skills.sh --format=detailed
 
 ```css
 # Core Skills
-Python: .................. ███████████ Expert
+Python: .................. █████████░░ Advanced
 Bash: .................... █████████░░ Advanced
 Linux: ................... ███████████ Expert
-Ansible: ................. ███████████ Expert
+Ansible: ................. █████████░░ Advanced
 Infrastructure: .......... ███████████ Specialist
-Monitoring: .............. █████████░░ Advanced
-ServiceNow: .............. ███████████ Certified
+Monitoring: .............. ███████████ Expert
+ServiceNow: .............. █████████░░ Certified
 Git: ..................... █████████░░ Advanced
 
 # Cloud & Platforms
@@ -60,7 +58,7 @@ Docker: .................. █████████░░ Advanced
 ScienceLogic SL1: ........ ███████████ Expert
 
 # Observability Tools
-Grafana: ................. █████████░░ Advanced
+Grafana: ................. ████████░░░ Intermediate
 Splunk: .................. █████████░░ Advanced
 ELK Stack: ............... ████████░░░ Intermediate
 Prometheus: .............. ████████░░░ Intermediate
@@ -79,9 +77,17 @@ Prometheus: .............. ████████░░░ Intermediate
 
 ## 📊 Professional Activity
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dtembe&theme=nord&column=4&no-frame=true&no-bg=true&rank=SECRET,AAA,AA,A,B" alt="GitHub Trophies" width="100%" />
-</div>
+```console
+dtembe@github:~$ ./show_github_stats.sh
+```
+
+```ini
+# GitHub Activity
+Trophy Status: ........... 🏆 Achieved key milestones in software development
+Code Focus: .............. 📊 Infrastructure automation, monitoring, and integration
+Contribution Type: ....... 🔧 Primarily private repositories and enterprise solutions
+Activity Status: ......... ✅ Regular commits and updates to professional projects
+```
 
 <!-- GitHub activity graph hidden to focus on private professional work -->
 
@@ -154,46 +160,32 @@ dtembe@github:~$ ./current_projects.sh --status=active
 
 ## 🌟 Highlighted Skills
 
-<div align="center">
+```console
+dtembe@github:~$ ./get_skill_details.sh --format=extended
+```
 
-<!-- Technical Skills -->
-<table>
-  <tr>
-    <td width="200"><strong>Observability</strong></td>
-    <td>
-      <strong>Infrastructure:</strong> ⭐⭐⭐⭐⭐ <code>Expert</code><br>
-      <strong>Application:</strong> ⭐⭐⭐⭐☆ <code>Advanced</code><br>
-      <strong>Cloud:</strong> ⭐⭐⭐⭐☆ <code>Advanced</code><br>
-      <strong>Security:</strong> ⭐⭐⭐⭐☆ <code>Advanced</code>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Infrastructure Management</strong></td>
-    <td>
-      <strong>Servers:</strong> ⭐⭐⭐⭐⭐ <code>Expert</code><br>
-      <strong>Networking:</strong> ⭐⭐⭐⭐☆ <code>Advanced</code><br>
-      <strong>Cloud:</strong> ⭐⭐⭐⭐☆ <code>Advanced</code>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Automation & Scripting</strong></td>
-    <td>
-      <strong>Python:</strong> ⭐⭐⭐⭐⭐ <code>Expert</code><br>
-      <strong>Bash:</strong> ⭐⭐⭐⭐☆ <code>Advanced</code><br>
-      <strong>PowerShell:</strong> ⭐⭐⭐☆☆ <code>Intermediate</code>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Monitoring & Analysis</strong></td>
-    <td>
-      <strong>Platform:</strong> ⭐⭐⭐⭐⭐ <code>Expert</code><br>
-      <strong>Log Analysis:</strong> ⭐⭐⭐⭐☆ <code>Advanced</code><br>
-      <strong>Dashboards:</strong> ⭐⭐⭐⭐☆ <code>Advanced</code>
-    </td>
-  </tr>
-</table>
+```yaml
+# Observability
+Infrastructure: .......... ███████████ Expert
+Application: ............. █████████░░ Advanced
+Cloud: ................... █████████░░ Advanced
+Security: ................ █████████░░ Advanced
 
-</div>
+# Infrastructure Management
+Servers: ................. ███████████ Expert
+Networking: .............. █████████░░ Advanced
+Cloud: ................... █████████░░ Advanced
+
+# Automation & Scripting
+Python: .................. ███████████ Expert
+Bash: .................... █████████░░ Advanced
+PowerShell: .............. ████████░░░ Intermediate
+
+# Monitoring & Analysis
+Platform: ................ ███████████ Expert
+Log Analysis: ............ █████████░░ Advanced
+Dashboards: .............. █████████░░ Advanced
+```
 
 ## 🎓 Certifications & Education
 

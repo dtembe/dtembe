@@ -12,7 +12,8 @@ Host: ................... ScienceLogic
 Kernel: ................. Sales Engineering, Solution Architecture, Infrastructure Automation & Monitoring
 
 Languages.Programming: ... Python, Bash, PowerShell
-Languages.Markup: ........ HTML, CSS, JSON, YAML, Markdown
+Development (IDE):     ... VS Code, Pycharm CE
+Languages.Markup: ........ JSON, YAML, Markdown, HTML, CSS
 Languages.Human: ......... English (Native), Marathi (Native), Hindi
 
 Email.Personal: .......... dtembe@_no_spam_yahoo.com ( remove _no_spam_ )

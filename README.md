@@ -1,5 +1,3 @@
-# <div align="center">👋 Hello, I'm Dan</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Infrastructure%20Specialist&fontSize=40&fontAlignY=40&animation=fadeIn" width="100%" alt="Profile Header"/>
 </div>
@@ -87,41 +85,79 @@
 <!-- Technical Skills -->
 <table>
   <tr>
-    <td><strong>Observability</strong></td>
+    <td width="200"><strong>Observability</strong></td>
     <td>
-      <img src="https://progress-bar.dev/95/?width=100&title=Infrastructure" alt="Infrastructure Monitoring 95%">
-      <img src="https://progress-bar.dev/90/?width=100&title=Application" alt="Application Monitoring 90%">
-      <img src="https://progress-bar.dev/85/?width=100&title=Cloud" alt="Cloud Monitoring 85%">
-      <img src="https://progress-bar.dev/85/?width=100&title=Security" alt="Security Monitoring 85%">
+      <strong>Infrastructure:</strong> ⭐⭐⭐⭐⭐ <code>Expert</code><br>
+      <strong>Application:</strong> ⭐⭐⭐⭐☆ <code>Advanced</code><br>
+      <strong>Cloud:</strong> ⭐⭐⭐⭐☆ <code>Advanced</code><br>
+      <strong>Security:</strong> ⭐⭐⭐⭐☆ <code>Advanced</code>
     </td>
   </tr>
   <tr>
-  <tr>
     <td><strong>Infrastructure Management</strong></td>
     <td>
-      <img src="https://progress-bar.dev/95/?width=100&title=Servers" alt="Servers 95%">
-      <img src="https://progress-bar.dev/90/?width=100&title=Networking" alt="Networking 90%">
-      <img src="https://progress-bar.dev/85/?width=100&title=Cloud" alt="Cloud 85%">
+      <strong>Servers:</strong> ⭐⭐⭐⭐⭐ <code>Expert</code><br>
+      <strong>Networking:</strong> ⭐⭐⭐⭐☆ <code>Advanced</code><br>
+      <strong>Cloud:</strong> ⭐⭐⭐⭐☆ <code>Advanced</code>
     </td>
   </tr>
   <tr>
     <td><strong>Automation & Scripting</strong></td>
     <td>
-      <img src="https://progress-bar.dev/95/?width=100&title=Python" alt="Python 95%">
-      <img src="https://progress-bar.dev/90/?width=100&title=Bash" alt="Bash 90%">
-      <img src="https://progress-bar.dev/80/?width=100&title=PowerShell" alt="PowerShell 80%">
+      <strong>Python:</strong> ⭐⭐⭐⭐⭐ <code>Expert</code><br>
+      <strong>Bash:</strong> ⭐⭐⭐⭐☆ <code>Advanced</code><br>
+      <strong>PowerShell:</strong> ⭐⭐⭐☆☆ <code>Intermediate</code>
     </td>
   </tr>
   <tr>
     <td><strong>Monitoring & Analysis</strong></td>
     <td>
-      <img src="https://progress-bar.dev/95/?width=100&title=Platform" alt="Platform 95%">
-      <img src="https://progress-bar.dev/90/?width=100&title=Log Analysis" alt="Log Analysis 90%">
-      <img src="https://progress-bar.dev/85/?width=100&title=Dashboards" alt="Dashboards 85%">
+      <strong>Platform:</strong> ⭐⭐⭐⭐⭐ <code>Expert</code><br>
+      <strong>Log Analysis:</strong> ⭐⭐⭐⭐☆ <code>Advanced</code><br>
+      <strong>Dashboards:</strong> ⭐⭐⭐⭐☆ <code>Advanced</code>
     </td>
   </tr>
 </table>
 
+</div>
+
+## 🎓 Certifications & Education
+
+<div align="center">
+<table>
+  <tr>
+    <td><b>ServiceNow</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Partner_Pre--Sales_Specialization-Now_Platform-00A1E0?style=flat-square&logo=servicenow" alt="ServiceNow Now Platform">
+      <img src="https://img.shields.io/badge/Partner_Pre--Sales_Specialization-ITOM-00A1E0?style=flat-square&logo=servicenow" alt="ServiceNow ITOM">
+      <img src="https://img.shields.io/badge/Partner_Pre--Sales_Specialization-ITSM-00A1E0?style=flat-square&logo=servicenow" alt="ServiceNow ITSM">
+      <img src="https://img.shields.io/badge/Partner_Pre--Sales_Specialization-CSM-00A1E0?style=flat-square&logo=servicenow" alt="ServiceNow CSM">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Other Certifications</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Splunk-Certified_Core_User-000000?style=flat-square&logo=splunk" alt="Splunk Certified Core User">
+      <img src="https://img.shields.io/badge/Google-Kubernetes_Engine-4285F4?style=flat-square&logo=google-cloud" alt="Google Kubernetes Engine">
+      <img src="https://img.shields.io/badge/ITIL-Foundations-5C0083?style=flat-square" alt="ITIL Foundations">
+      <img src="https://img.shields.io/badge/HP-OpenView_Expert-0096D6?style=flat-square" alt="HP OpenView Expert">
+    </td>
+  </tr>
+</table>
+</div>
+
+## 📝 Published Articles
+
+<div align="center">
+  <a href="https://www.linkedin.com/pulse/python-scripted-api-bridge-dan-tembe" target="_blank">
+    <img src="https://img.shields.io/badge/2019-Python_Scripted_API_Bridge-3776AB?style=for-the-badge&logo=python" alt="Python Scripted API Bridge">
+  </a>
+  <a href="https://www.linkedin.com/pulse/jenkins-cicd-super-cron-restful-api-integration-dan-tembe" target="_blank">
+    <img src="https://img.shields.io/badge/2019-Jenkins_CI/CD_for_API_Integration-D24939?style=for-the-badge&logo=jenkins" alt="Jenkins CI/CD Article">
+  </a>
+  <a href="https://www.linkedin.com/pulse/information-security-compliance-strategy-or-expanding-dan-tembe" target="_blank">
+    <img src="https://img.shields.io/badge/2018-Information_Security_Compliance_Strategy-4A154B?style=for-the-badge&logo=shield" alt="Security Compliance Strategy">
+  </a>
 </div>
 
 ## 🛠️ Projects by Category

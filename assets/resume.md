@@ -49,7 +49,7 @@ Results-driven technologist with expertise in **Observability, AIOps, and ITOM s
 ---
 
 ### **Senior Director, Managed Services**  
-📍 **NetFabric IT Solutions | Oklahoma City, OK** | 🗓 **11/22 - Present**  
+📍 **NetFabric IT Solutions | Oklahoma City, OK** | 🗓 **11/22 - 10/23**  
 
 - Oversaw all aspects of the **Managed Services business unit**, reporting directly to the CEO.  
 - Partnered with **sales and marketing teams** to develop high-margin **managed services offerings**.  
